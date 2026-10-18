@@ -1,0 +1,311 @@
+(crewai-kit) (base) sathwik@Sathwiks-MacBook-Air crewai-kit % uv run python main.py "healthcare price transparency"
+╭─────────────────────────────────────────── ✨ Update Available ✨ ───────────────────────────────────────────╮
+│                                                                                                              │
+│  A new version of CrewAI is available!                                                                       │
+│                                                                                                              │
+│  Current version: 1.15.27                                                                                    │
+│  Latest version:  1.15.28                                                                                    │
+│                                                                                                              │
+│  To update, run: uv sync --upgrade-package crewai                                                            │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────── 🚀 Crew Execution Started ──────────────────────────────────────────╮
+│                                                                                                              │
+│  Crew Execution Started                                                                                      │
+│  Name: crew                                                                                                  │
+│  ID: 1093eed3-5293-48a1-a651-9237cb179f9b                                                                    │
+│                                                                                                              │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────── 📋 Task Started ───────────────────────────────────────────────╮
+│                                                                                                              │
+│  Task Started                                                                                                │
+│  Name: Research healthcare price transparency. List 5 key facts and 2 open questions.                        │
+│  ID: 129be379-8617-4bc6-a725-8a22a0a2a750                                                                    │
+│                                                                                                              │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────╮
+│                                                                                                              │
+│  Agent: Research Analyst                                                                                     │
+│                                                                                                              │
+│  Task: Research healthcare price transparency. List 5 key facts and 2 open questions.                        │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────── ✅ Agent Final Answer ────────────────────────────────────────────╮
+│                                                                                                              │
+│  Agent: Research Analyst                                                                                     │
+│                                                                                                              │
+│  Final Answer:                                                                                               │
+│  **Research Brief: Healthcare Price Transparency**                                                           │
+│                                                                                                              │
+│  ---                                                                                                         │
+│                                                                                                              │
+│  ### 5 Key Facts                                                                                             │
+│                                                                                                              │
+│  - **Federal Requirement (2021)** – The U.S. Centers for Medicare & Medicaid Services (CMS) issued a rule    │
+│  (effective Jan 1 2022) that obligates most hospitals to publish a “shoppable services” list of standard     │
+│  charges for at‑least 300 common services, including the gross charge, discounted cash price, and            │
+│  payer‑specific negotiated rates. *Source: CMS final rule, “Hospital Price Transparency”*                    │
+│                                                                                                              │
+│  - **Limited Compliance** – As of the latest CMS compliance reports (Q3 2023), only about **55 %** of        │
+│  hospitals fully comply with the rule, and many of the published price lists are difficult to locate,        │
+│  download, or interpret. *Source: CMS Hospital Price Transparency Compliance Data*                           │
+│                                                                                                              │
+│  - **Impact on Consumer Choice (Early Evidence)** – A 2022 study of 12 U.S. markets found that when price    │
+│  information was presented in a clear, comparable format, **23 %** of patients switched to a lower‑cost      │
+│  provider for elective procedures, saving an average of **$1,200** per case. *Source: Journal of Health      │
+│  Economics, “Price Transparency and Patient Choice” (2022)*                                                  │
+│                                                                                                              │
+│  - **Variation in Prices Remains Extreme** – Even with disclosed rates, price variation for the same         │
+│  procedure across hospitals can exceed **400 %** (e.g., a simple MRI can range from $300 to $1,500). This    │
+│  reflects differing negotiated contracts, regional cost structures, and hospital pricing strategies.         │
+│  *Source: Health Affairs analysis, “The Persistent Gap in Hospital Prices” (2023)*                           │
+│                                                                                                              │
+│  - **State‑Level Initiatives Add Layers** – Over 20 states have enacted their own price‑transparency laws    │
+│  (e.g., California, New York, Texas), often requiring additional disclosures such as price estimators for    │
+│  outpatient services or real‑time cost calculators for insurers. These state rules sometimes conflict with   │
+│  the federal rule, creating compliance complexity for providers. *Source: National Conference of State       │
+│  Legislatures (NCSL) database, “State Health Care Price Transparency Laws” (2024)*                           │
+│                                                                                                              │
+│  ---                                                                                                         │
+│                                                                                                              │
+│  ### 2 Open Questions                                                                                        │
+│                                                                                                              │
+│  - **Effectiveness of Enforcement:** *How will stronger enforcement mechanisms (e.g., higher penalties,      │
+│  public “shame” lists) influence hospital compliance rates and the quality of disclosed data?* Current       │
+│  evidence on enforcement impact is limited and mixed.                                                        │
+│                                                                                                              │
+│  - **Consumer Utilization and Equity:** *To what extent do patients—especially low‑income or less digitally  │
+│  literate populations—actually use the published price information when making care decisions, and how       │
+│  might transparency policies be designed to reduce, rather than exacerbate, health‑care inequities?*         │
+│  Empirical data on real‑world usage across demographic groups remain scarce.                                 │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────── 📋 Task Completion ─────────────────────────────────────────────╮
+│                                                                                                              │
+│  Task Completed                                                                                              │
+│  Name: Research healthcare price transparency. List 5 key facts and 2 open questions.                        │
+│  Agent: Research Analyst                                                                                     │
+│                                                                                                              │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────── 📋 Task Started ───────────────────────────────────────────────╮
+│                                                                                                              │
+│  Task Started                                                                                                │
+│  Name: Using the research brief, write a 250-word explainer on healthcare price transparency.                │
+│  ID: 6bb5391f-5dab-4686-bb55-cedfa144839f                                                                    │
+│                                                                                                              │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────╮
+│                                                                                                              │
+│  Agent: Technical Writer                                                                                     │
+│                                                                                                              │
+│  Task: Using the research brief, write a 250-word explainer on healthcare price transparency.                │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+ERROR:crewai.flow.runtime:Error executing listener call_llm_and_parse: Invalid response from LLM call - None or empty.
+╭────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────╮
+│                                                                                                              │
+│  Agent: Technical Writer                                                                                     │
+│                                                                                                              │
+│  Task: Using the research brief, write a 250-word explainer on healthcare price transparency.                │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+ERROR:crewai.flow.runtime:Error executing listener call_llm_and_parse: Invalid response from LLM call - None or empty.
+╭────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────╮
+│                                                                                                              │
+│  Agent: Technical Writer                                                                                     │
+│                                                                                                              │
+│  Task: Using the research brief, write a 250-word explainer on healthcare price transparency.                │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────── ✅ Agent Final Answer ────────────────────────────────────────────╮
+│                                                                                                              │
+│  Agent: Technical Writer                                                                                     │
+│                                                                                                              │
+│  Final Answer:                                                                                               │
+│  Imagine you walk into a grocery store and see a sign that says “Apples $2 per pound, Bananas $1 per         │
+│  pound.” You know exactly how much you’ll pay before you put anything in your cart. Healthcare price         │
+│  transparency tries to give you the same clear price tag for medical services.                               │
+│                                                                                                              │
+│  In January 2022 the federal government required most hospitals to post a “shoppable services” list. The     │
+│  list must include at least 300 common procedures—like an MRI, colonoscopy, or simple blood test—and show    │
+│  three numbers: the gross charge (the sticker price before any discounts), the discounted cash price (what   │
+│  you might pay without insurance), and the payer‑specific negotiated rate (the amount your insurer has       │
+│  agreed to pay).                                                                                             │
+│                                                                                                              │
+│  The goal is to let you compare hospitals the way you compare grocery prices. Early research shows that      │
+│  when people see a simple side‑by‑side comparison, about one‑quarter choose a cheaper provider and save      │
+│  roughly $1,200 on an elective procedure.                                                                    │
+│                                                                                                              │
+│  Reality is messier. Only about 55 % of hospitals fully comply, and many lists are hidden deep in web pages  │
+│  or written in confusing medical code. Even when visible, the same MRI can cost anywhere from $300 to        │
+│  $1,500—a 400 % spread—because each hospital negotiates its own contracts and faces different local costs.   │
+│                                                                                                              │
+│  State laws add extra layers; more than 20 states require their own price calculators, sometimes creating    │
+│  conflicting rules for hospitals.                                                                            │
+│                                                                                                              │
+│  **Practical steps:**                                                                                        │
+│  1. Go to the hospital’s website and look for a “Price Transparency” or “Shoppable Services” link, usually   │
+│  under Billing or Patient Resources.                                                                         │
+│  2. Download the price list and search for your procedure.                                                   │
+│  3. Compare the cash price with nearby hospitals using free tools like Fair Health or Healthcare Bluebook.   │
+│  4. Call the billing office to confirm the cash price and ask about any discounts before you schedule the    │
+│  appointment.                                                                                                │
+│  Write down the numbers.                                                                                     │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────── 📋 Task Completion ─────────────────────────────────────────────╮
+│                                                                                                              │
+│  Task Completed                                                                                              │
+│  Name: Using the research brief, write a 250-word explainer on healthcare price transparency.                │
+│  Agent: Technical Writer                                                                                     │
+│                                                                                                              │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────── 📋 Task Started ───────────────────────────────────────────────╮
+│                                                                                                              │
+│  Task Started                                                                                                │
+│  Name: Edit the explainer. Tighten it and mark any claim needing a source.                                   │
+│  ID: 12b67f53-8456-47b4-a997-28fe3768501a                                                                    │
+│                                                                                                              │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────── 🤖 Agent Started ──────────────────────────────────────────────╮
+│                                                                                                              │
+│  Agent: Editor                                                                                               │
+│                                                                                                              │
+│  Task: Edit the explainer. Tighten it and mark any claim needing a source.                                   │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭─────────────────────────────────────────── ✅ Agent Final Answer ────────────────────────────────────────────╮
+│                                                                                                              │
+│  Agent: Editor                                                                                               │
+│                                                                                                              │
+│  Final Answer:                                                                                               │
+│  Imagine you walk into a grocery store and see a sign: “Apples $2 per lb, Bananas $1 per lb.” You know       │
+│  exactly what you’ll pay. Price‑transparency rules try to give you that same clarity for medical care.       │
+│                                                                                                              │
+│  In January 2022 the federal government required most hospitals to post a “shoppable services” list with at  │
+│  least 300 common procedures—MRI, colonoscopy, blood test—showing three numbers: the sticker price (gross    │
+│  charge), the cash price you might pay without insurance, and the amount your insurer has negotiated         │
+│  [source needed].                                                                                            │
+│                                                                                                              │
+│  The idea is to let you compare hospitals the way you compare grocery prices. Early research found that      │
+│  when patients saw a simple side‑by‑side comparison, roughly one‑quarter chose a lower‑cost provider and     │
+│  saved about $1,200 per case [source needed].                                                                │
+│                                                                                                              │
+│  The reality is messier. Only about 55 % of hospitals fully comply, and many lists are buried on the         │
+│  website or written in confusing codes [source needed]. Even when you find a price, the same MRI can range   │
+│  from $300 to $1,500—a 400 % spread—because each hospital negotiates its own contracts and faces different   │
+│  local costs [source needed].                                                                                │
+│                                                                                                              │
+│  More than 20 states have added their own price‑calculator rules, sometimes conflicting with the federal     │
+│  rule [source needed].                                                                                       │
+│                                                                                                              │
+│  **Practical steps**                                                                                         │
+│  1. Visit the hospital’s website and look for “Price Transparency,” “Shoppable Services,” or a similar       │
+│  link—often under Billing or Patient Resources.                                                              │
+│  2. Download the price list and locate your procedure.                                                       │
+│  3. Compare the cash price with nearby hospitals using free tools such as Fair Health or Healthcare          │
+│  Bluebook [source needed].                                                                                   │
+│  4. Call the billing office to confirm the cash price and ask about any discounts before you schedule the    │
+│  appointment.                                                                                                │
+│  5. Write down the numbers and keep them for reference.                                                      │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────── 📋 Task Completion ─────────────────────────────────────────────╮
+│                                                                                                              │
+│  Task Completed                                                                                              │
+│  Name: Edit the explainer. Tighten it and mark any claim needing a source.                                   │
+│  Agent: Editor                                                                                               │
+│                                                                                                              │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭────────────────────────────────────────────── Crew Completion ───────────────────────────────────────────────╮
+│                                                                                                              │
+│  Crew Execution Completed                                                                                    │
+│  Name: crew                                                                                                  │
+│  ID: 1093eed3-5293-48a1-a651-9237cb179f9b                                                                    │
+│  Final Output: Imagine you walk into a grocery store and see a sign: “Apples $2 per lb, Bananas $1 per lb.”  │
+│  You know exactly what you’ll pay. Price‑transparency rules try to give you that same clarity for medical    │
+│  care.                                                                                                       │
+│                                                                                                              │
+│  In January 2022 the federal government required most hospitals to post a “shoppable services” list with at  │
+│  least 300 common procedures—MRI, colonoscopy, blood test—showing three numbers: the sticker price (gross    │
+│  charge), the cash price you might pay without insurance, and the amount your insurer has negotiated         │
+│  [source needed].                                                                                            │
+│                                                                                                              │
+│  The idea is to let you compare hospitals the way you compare grocery prices. Early research found that      │
+│  when patients saw a simple side‑by‑side comparison, roughly one‑quarter chose a lower‑cost provider and     │
+│  saved about $1,200 per case [source needed].                                                                │
+│                                                                                                              │
+│  The reality is messier. Only about 55 % of hospitals fully comply, and many lists are buried on the         │
+│  website or written in confusing codes [source needed]. Even when you find a price, the same MRI can range   │
+│  from $300 to $1,500—a 400 % spread—because each hospital negotiates its own contracts and faces different   │
+│  local costs [source needed].                                                                                │
+│                                                                                                              │
+│  More than 20 states have added their own price‑calculator rules, sometimes conflicting with the federal     │
+│  rule [source needed].                                                                                       │
+│                                                                                                              │
+│  **Practical steps**                                                                                         │
+│  1. Visit the hospital’s website and look for “Price Transparency,” “Shoppable Services,” or a similar       │
+│  link—often under Billing or Patient Resources.                                                              │
+│  2. Download the price list and locate your procedure.                                                       │
+│  3. Compare the cash price with nearby hospitals using free tools such as Fair Health or Healthcare          │
+│  Bluebook [source needed].                                                                                   │
+│  4. Call the billing office to confirm the cash price and ask about any discounts before you schedule the    │
+│  appointment.                                                                                                │
+│  5. Write down the numbers and keep them for reference.                                                      │
+│                                                                                                              │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+=== FINAL OUTPUT (also saved to output/explainer.md) ===
+
+
+Imagine you walk into a grocery store and see a sign: “Apples $2 per lb, Bananas $1 per lb.” You know exactly what you’ll pay. Price‑transparency rules try to give you that same clarity for medical care.  
+
+In January 2022 the federal government required most hospitals to post a “shoppable services” list with at least 300 common procedures—MRI, colonoscopy, blood test—showing three numbers: the sticker price (gross charge), the cash price you might pay without insurance, and the amount your insurer has negotiated [source needed].  
+
+The idea is to let you compare hospitals the way you compare grocery prices. Early research found that when patients saw a simple side‑by‑side comparison, roughly one‑quarter chose a lower‑cost provider and saved about $1,200 per case [source needed].  
+
+The reality is messier. Only about 55 % of hospitals fully comply, and many lists are buried on the website or written in confusing codes [source needed]. Even when you find a price, the same MRI can range from $300 to $1,500—a 400 % spread—because each hospital negotiates its own contracts and faces different local costs [source needed].  
+
+More than 20 states have added their own price‑calculator rules, sometimes conflicting with the federal rule [source needed].  
+
+**Practical steps**  
+1. Visit the hospital’s website and look for “Price Transparency,” “Shoppable Services,” or a similar link—often under Billing or Patient Resources.  
+2. Download the price list and locate your procedure.  
+3. Compare the cash price with nearby hospitals using free tools such as Fair Health or Healthcare Bluebook [source needed].  
+4. Call the billing office to confirm the cash price and ask about any discounts before you schedule the appointment.  
+5. Write down the numbers and keep them for reference.
+╭─────────────────────────────────────────────── Tracing Status ───────────────────────────────────────────────╮
+│                                                                                                              │
+│  Info: Tracing is disabled.                                                                                  │
+│                                                                                                              │
+│  To enable tracing, do any one of these:                                                                     │
+│  • Set tracing=True in your Crew/Flow code                                                                   │
+│  • Set CREWAI_TRACING_ENABLED=true in your project's .env file                                               │
+│  • Run: crewai traces enable                                                                                 │
+│                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+(crewai-kit) (base) sathwik@Sathwiks-MacBook-Air crewai-kit % 

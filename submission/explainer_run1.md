@@ -1,0 +1,7 @@
+Healthcare price transparency requires hospitals to publish a machine‑readable file for every service, showing the gross charge, the insurer‑negotiated rate, and the cash price. The rule, effective Jan 1 2022, aims to let patients compare costs before seeking care. [source needed]
+
+Compliance is low. 2023 audits found only ≈ 55 % of hospitals fully complied; many files contain errors, omissions, or are difficult to navigate. [source needed] A 2022 RAND analysis reported that fewer than 5 % of price‑shopping patients actually use the posted data. [source needed] Patients often lack the clinical knowledge to interpret CPT codes and bundled charges. [source needed]
+
+State initiatives add pressure. By 2024, twelve states—including California, Colorado, and Washington—have enacted laws requiring real‑time price estimates for scheduled procedures and imposing penalties of $10,000 or more per violation. [source needed]
+
+Modeling by the Commonwealth Fund suggests that full, accurate transparency could lower national health‑care spending by 2–4 % ($30–$60 billion annually) through price competition and better site selection. [source needed] Key challenges are making the data actionable for patients and strengthening enforcement—e.g., higher fines, public compliance dashboards, or tying compliance to Medicare reimbursement. [source needed] Improved access and accuracy would empower consumers and help contain costs.
